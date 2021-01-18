@@ -13,6 +13,7 @@ input.addEventListener('keyup', () => {
     } else {
         document.body.style.backgroundColor = 'grey'
     }
+    
 })
 
 
