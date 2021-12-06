@@ -12,6 +12,7 @@ input.addEventListener('keyup', () => {
         document.body.style.backgroundColor = 'lime'
     } else {
         document.body.style.backgroundColor = 'grey'
+
         
     }
 })
